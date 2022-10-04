@@ -8,6 +8,10 @@ NOTE: _This implementation does not uses css grid_
 
 - simply clone the repo and open the `index.html` file in your browser.
 
+## DEMO
+
+- [Demo](https://emanuelefavero.github.io/masonry/)
+
 ## OTHER RESOURCES
 
 - Check this library [Masonry](https://masonry.desandro.com/) for a javascript implementation of a masonry layout.
